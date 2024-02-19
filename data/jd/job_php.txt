@@ -1,0 +1,37 @@
+The technology stack we use
+PHP (latest – currently 8.3)
+Laravel Framework (latest – currently 10): You’ll be using the latest version of the Laravel framework and associated ecosystem, including running our apps on AWS using Laravel Vapor.
+Eloquent
+Filament (latest – currently v3)
+Livewire (latest – currently v3)
+Tailwind CSS (default in the Laravel Framework)
+Vite (default in the Laravel Framework)
+Laravel Octane
+Pest PHP
+Laravel Dusk
+The toolset we use
+PHP Storm
+Github (inc. Github Actions)
+Laravel Vapor
+Flare
+Fathom Analytics
+Laravel Pint
+Our team embraces a standard tech stack, but we're open to new, beneficial tools - decided democratically. For example, we prefer Eloquent for its Laravel synergy. If you have innovative ideas, you'll have regular chances to suggest improvements, fostering a collaborative and dynamic work environment.
+
+Responsibilities of the Role
+Development: You’ll be responsible for implementing new features and functionalities into our Laravel apps:
+architecting and designing the implementation strategy for these features and functionalities,
+using events and commands where possible,
+writing the code to implement them following SOLID principles and design patterns to ensure codebase maintainability and scalability, within the predefined technology stack and toolset (defined above).
+Implement authentication and authorization features using Laravel's built-in capabilities such as Gates, Policies, and Passport to ensure secure access to different parts of the application.
+Optimise for maximum speed and scalability, employing Laravel's caching mechanisms and optimizing database queries through Eloquent ORM or the query builder where necessary.
+Integrate third-party services and APIs (e.g., payment gateways, social networks, geolocation services), handling both the server-side logic and client-side callbacks.
+Utilise Laravel queues and job processing to handle as many tasks as possible asynchronously, and designing code accordingly to improving application throughput and user experience.
+Apply Laravel's event and listener system to decouple application components and facilitate modular code design, improving maintainability and scalability.
+Ensure application security by implementing Laravel's security best practices, including protection against SQL injection, cross-site request forgery (CSRF), and cross-site scripting (XSS).
+Where appropriate, refactoring and optimising existing codebase for better performance and readability on an on-going basis, adhering to PSR standards and Laravel best practices.
+Tests: You’ll write both unit and feature tests; using Pest for the unit tests and using both our Pest BDD plugin (https://pestphp.com) and Laravel Dusk for the feature tests, to confirm the requirements have been met and to ensure application reliability and robustness through automated testing.
+User Interface: You will be mostly using Filament v3 and pre-defined Tailwind components, so you don’t need to worry about how the user interface looks – only that it passes the tests. You’ll already know from the previous sentence that you’ll be using Livewire v3 and its likely that pages not using Filament will utilise elements of Livewire. You'll Utilise Laravel Livewire in tandem with Tailwind CSS for building dynamic and interactive user interfaces.
+Data: You’ll be using a combination of Eloquent (MySQL) and Spatie Event Sourcing
+CI: Using Github actions to ensure our automated tests pass with every change to the codebase.
+Deployment: Manage application deployment and environment configurations using Laravel Vapor.

@@ -1,0 +1,32 @@
+Senior Django Back-End Developer
+
+We seek to hire a suitable candidate to fill this role.
+
+Minimum Qualification: Degree
+Experience Level: Mid level
+Experience Length: 3 years
+Job Description/Requirements
+Responsibilities:
+Building and scaling our whole API/infrastructure platform backend with security in mind. This means researching, designing, developing, and shipping end-to-end new and exciting features that other developers can use.
+Collaborate with the team to build features and make bug fixes throughout the software development lifecycle from designing to deploying your code to production.
+Collaborate closely with engineers and stakeholders to build a high-quality product and drive technical solutions to complex software and business problems, work with teams of talented software engineers who care deeply about the solutions they create to design, brainstorm/road mapping, develop, improve, maintain, and troubleshoot our entire platform and backend systems
+Help build a great team, write automated tests and clear, concise technical documentation on system design and implementation for easy use by other developers
+
+Requirements:
+
+Minimum of 2 years of proven work experience
+Expertise and professional experience in Python/Django
+Expertise and professional experience in API design and development for mobile and web
+Good knowledge of web sockets.
+Have experience building video streaming web application
+Have experience working with WebRTC
+Proficiency with Git/Github
+Expertise in CI/CD pipeline, such as CircleCI, Jenkins, Github Actions, etc. is a plus
+Knowledge of Docker is a plus
+Knowledge of Digital Ocean is a big plus
+Knowledge of Kubernetes is a big plus
+Familiar with the Agile Development Process
+Ability to work and collaborate in teams
+Ability to deliver quality projects timely
+Willingness to learn and develop even further
+Knowledge of the front end is a plus

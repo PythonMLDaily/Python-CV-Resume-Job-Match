@@ -1,0 +1,26 @@
+Python Developer
+
+Python Developer Responsibilities:
+
+Coordinating with development teams to determine application requirements.
+Writing scalable code using Python programming language.
+Testing and debugging applications.
+Developing back-end components.
+Integrating user-facing elements using server-side logic.
+Assessing and prioritizing client feature requests.
+Integrating data storage solutions.
+Coordinating with front-end developers.
+Reprogramming existing databases to improve functionality.
+Developing digital tools to monitor online traffic.
+
+PBX Operator Requirements:
+
+Bachelor's degree in computer science, computer engineering, or related field.
+3-5 years of experience as a Python developer.
+Expert knowledge of Python and related frameworks including Django and Flask.
+A deep understanding and multi-process architecture and the threading limitations of Python.
+Familiarity with server-side templating languages including Jinja 2 and Mako.
+Ability to integrate multiple data sources into a single system.
+Familiarity with testing tools.
+Ability to collaborate on projects and work independently when required.
+Job Type: Full-time

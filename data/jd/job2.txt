@@ -1,0 +1,43 @@
+Python Data Scientist
+
+Responsibilities:
+
+Defines product objectives by gathering and analysing user requirements; envisioning system features and functionality.
+Recommends data solutions by exploring the advantages and benefits of existing development against alternative development.
+Be involved in regular testing of data scrapping scripts and software products; unit testing and final testing.
+Writes and updates software test processes and procedures.
+Coordinates (or partakes in) the coding/programming of software products and solutions with version control systems such as git.
+Develop and maintain python scripts or applications to perform data scraping using the best available libraries in python.
+Development and maintenance of data pipeline processes.
+Implement requests to APIs and develop API modules with python.
+Perform Data Analysis, mining and visualization using relevant python libraries.
+Developing data models and algorithms best suited to a particular scenario.
+Employ sophisticated analytics programs, machine learning and statistical methods to prepare data for use in predictive and prescriptive modelling.
+Develop and maintain Natural Language processing applications using python’s NLTK library concepts.
+Write and implement test scripts for python programs.
+As the lead developer for a product or solution, he/she will do the following;
+Breaks down tasks into executable units,
+Assigns tasks to team members and allocates time,
+Manages product features – backlog manager,
+Responsible for managing and enforcing coding style and collaboration standards,
+Supports and coordinates team members with appropriate review and retrospectives.
+Involves in code review and optimization, and implements reviews made on products.
+Write reusable and testable codes.
+
+Qualification and Skills:
+
+A degree in Computer Science, Information Science, Mathematics or any closely related field is required.
+Sound knowledge of NumPy, Pandas, MatPlotLib or NLTK libraries.
+Good knowledge of relational and structural databases and how to create database schemas that represent and support business processes.
+Understands the design principles behind a scalable application.
+Sound knowledge of version control tools such as git.
+Strong knowledge of web server exploits and their solutions.
+Passion for best design and coding practices, and a desire to develop new interesting ideas.
+Top-notch programming skills and in-depth knowledge of modern data science/machine learning and natural language processing technologies.
+Teamwork.
+Good communication skills.
+Highly organized and pays extraordinary attention to detail.
+Must have the ability to act quickly and pragmatically under pressure, prioritise and resolve issues.
+Enthusiasm and high level of motivation.
+Please Note: This is a fully Onsite position, not currently available for remote or hybrid.
+

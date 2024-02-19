@@ -1,0 +1,27 @@
+Senior Fullstack Developer (AWS Serverless, Python/TypeScript & React)
+
+Job Summary
+We are looking for a highly skilled Senior Fullstack Developer to join our team. The ideal candidate should have a deep understanding of AWS Serverless architectures and be proficient in Infrastructure as Code (IaC) practices. Expertise in React for frontend development is also crucial. We're using Typescript (client, server, IaC) and Python (server, IaC)
+
+Minimum Qualification: HND
+Experience Level: Mid level
+Experience Length: 4 years
+
+Responsibilities:
+
+Implement AWS Serverless architectures using Python/TypeScript.
+Develop and maintain React-based web applications.
+Employ Infrastructure as Code for deployment (CDK, CloudFormation, Terraform).
+Optimize applications for maximum maintainability, speed and scalability.
+Collaborate on all development stages, ensuring quality and efficiency.
+
+Requirements:
+
+
+Expertise in AWS Serverless services, apis and tools.
+Relational/NoSQL databases, caching service, Queueing and messaging
+Proficiency in Python and/or TypeScript.
+Strong experience in React and modern frontend technologies.
+Knowledge of Infrastructure as Code practices.
+Problem-solving mindset and attention to detail.
+Can do attitude
