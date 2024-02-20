@@ -1,0 +1,5 @@
+textract
+tabulate
+scikit-learn
+spacy
+nltk
